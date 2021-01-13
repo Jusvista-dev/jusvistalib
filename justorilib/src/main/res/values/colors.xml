@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#985AD8</color>
+    <color name="colorAccent">#8f00ff</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="color9">#8104B6</color>
+    <color name="colorPrimaryVista">#3F51B5</color>
+    <color name="colorPrimaryDarkVista">#985AD8</color>
+    <color name="colorAccentVista">#8f00ff</color>
+    <color name="textColorVista">#9900ff</color>
+    <color name="tabSeparatorColorVista">#aba5a5</color>
+    <color name="black">#000000</color>
+    <color name="dark_green">#006400</color>
+    <color name="colorRed">#CC0000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="light_grey">#808080</color>
+    <color name="colorDarkTransparent">#11000000</color>
+    <color name="purple">#9C27B0</color>
+    <color name="agegroupcolor">#8b8484</color>
+    <color name="tourGrayBorder">#BE777777</color>
+    <color name="gold">#DAA520</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorGray">#747373</color>
+
+</resources>

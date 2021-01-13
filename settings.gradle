@@ -1,0 +1,3 @@
+include ':justorilib'
+include ':app'
+rootProject.name = "JustoriLib"

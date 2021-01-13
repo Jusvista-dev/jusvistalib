@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allStories">All Stories</string>
+    <string name="sure_want_to_exit">Are you sure want to back from Justori?</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+
+    <string name="text_long">testestetestestetestestestetestestetestestestetestestetestestestetestestetestestestetestestetestestestetestestetestestestetestestetestestestetestestetestestestetestestetestestestetestestetestestestetestestetestestestetestestetes</string>
+    <string name="text_short">testestetestestetes</string>
+    <string name="play_initial_time">00:00</string>
+    <string name="track_number">Track</string>
+    <string name="description_icon_player">player icon</string>
+    <string name="description_play_button">play/pause button</string>
+    <string name="description_previous_button">previous button</string>
+    <string name="description_next_button">next button</string>
+    <string name="description_repeat_button">repeat button</string>
+    <string name="description_shuffle_button">shuffle button</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardMenu"
+        android:minWidth="@dimen/_65sdp"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_32sdp"
+        android:layout_marginLeft="@dimen/_5sdp"
+        >
+
+        <LinearLayout
+            android:onClick="showAllStories"
+            android:id="@+id/llMenuItem"
+            android:background="@drawable/background_with_white_border"
+            android:minWidth="@dimen/_65sdp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_32sdp"
+            android:padding="@dimen/_5sdp"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tvMenuItem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/allStories"
+                android:textColor="@color/white"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>
